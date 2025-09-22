@@ -1,4 +1,4 @@
-import chefMyIcon from '/chef-My-icon.png';
+import chefMyIcon from 'public/chef-My-icon.png';
 
 const Header = () => {
     return (
